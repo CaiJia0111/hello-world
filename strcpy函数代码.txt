@@ -16,6 +16,6 @@ char * StrCpy(char *src)
 
       dst[len]='\0';
        
-       //返回新申请的内存空间指针
+       //返回新申请的内存空间指针。
        return dst;
 }
